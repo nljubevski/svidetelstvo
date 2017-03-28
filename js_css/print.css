@@ -11,10 +11,10 @@ button {
     display: none;
 }
 
- /*@page {
+ @page {
         size: a4;
-        margin: 1.0cm;
-    }*/
+        margin: 0cm;
+    }
 
 ::-webkit-input-placeholder { /* WebKit browsers */
         color: transparent;
