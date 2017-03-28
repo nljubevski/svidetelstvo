@@ -1,0 +1,21 @@
+ body, page {
+    margin: 0;
+    box-shadow: 0;
+  }
+
+textarea {
+    resize: none;
+}
+
+button {
+    display: none;
+}
+
+ /*@page {
+        size: a4;
+        margin: 1.0cm;
+    }*/
+
+::-webkit-input-placeholder { /* WebKit browsers */
+        color: transparent;
+}
