@@ -59,6 +59,7 @@ input, textarea {
 
 #page1 {
     background-image: url('../images/page1.png');
+    background-position-y : -7px;
 }
 
 #page2 {
@@ -90,14 +91,14 @@ input, textarea {
 }
 
 #i1 {
-    top: 140px;
+    bottom: 25.6cm;
     left: 77px;
     width: 646px;
 }
 
 
 .r2 {
-    top: 189px;
+    bottom: 24.3cm;
 }
 
 #i2 {
@@ -116,7 +117,7 @@ input, textarea {
 }
 
 .r3 {
-    top: 272px;
+    bottom: 22cm;
 }
 
 #i5 {
@@ -130,7 +131,7 @@ input, textarea {
 
 
 .r4 {
-    top: 316px;
+    bottom: 21cm;
 }
 
 #i6 {
@@ -143,7 +144,7 @@ input, textarea {
 
 
 .r5 {
-    top: 355px;
+    bottom: 20cm;
 }
 
 #i7 {
@@ -159,7 +160,7 @@ input, textarea {
 
 
 .r6 {
-    top: 379px;
+    bottom: 19.35cm;
 }
 #i9 {
     left: 133px;
@@ -174,7 +175,7 @@ input, textarea {
 
 
 .r7 {
-    top: 398px;
+    bottom: 18.8cm;
 }
 #i11 {
     left: 139px;
@@ -188,7 +189,7 @@ input, textarea {
 
 
 .r8 {
-    top: 418px;
+    bottom: 18.4cm;
 }
 #i13 {
     left: 185px;
