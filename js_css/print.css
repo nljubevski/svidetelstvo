@@ -1,7 +1,13 @@
- body, page {
+ body, .page {
     margin: 0;
     box-shadow: 0;
   }
+
+ html, body {
+     width: 210mm;
+     height: 297mm;
+ }
+
 
 textarea {
     resize: none;
@@ -11,10 +17,10 @@ button {
     display: none;
 }
 
- @page {
+@page {
         size: a4;
-        margin: 0cm;
-    }
+        margin: 0;
+}
 
 ::-webkit-input-placeholder { /* WebKit browsers */
         color: transparent;

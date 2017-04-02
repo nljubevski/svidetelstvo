@@ -40,7 +40,9 @@ input, textarea {
   box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
 
   background-repeat: no-repeat;
-  background-position-x: 21px;
+
+    background-position-y: 0.7cm;
+    background-position-x: 0.7cm;
 
     height: 29.7cm; 
     width: 21cm;
@@ -59,11 +61,16 @@ input, textarea {
 
 #page1 {
     background-image: url('../images/page1.png');
-    background-position-y : -7px;
+    background-size : 19.5cm 28.2cm;
+    padding-top: 1mm;
+    background-position-y: 8mm;
+
 }
 
 #page2 {
     background-image: url('../images/page2.png');
+    background-size : 19.5cm 28.2cm;
+    padding-top: 2mm;
 }
 
 .inp {
@@ -91,14 +98,14 @@ input, textarea {
 }
 
 #i1 {
-    bottom: 25.6cm;
+    bottom: 965px;
     left: 77px;
     width: 646px;
 }
 
 
 .r2 {
-    bottom: 24.3cm;
+    bottom: 916px;
 }
 
 #i2 {
@@ -107,12 +114,12 @@ input, textarea {
 }
 
 #i3 {
-    left: 539px;
+    left: 531px;
     width: 86px;
 }
 
 #i4 {
-    left: 655px;
+    left: 645px;
     width: 25px;
 }
 
@@ -144,7 +151,7 @@ input, textarea {
 
 
 .r5 {
-    bottom: 20cm;
+    bottom: 754px;
 }
 
 #i7 {
@@ -160,7 +167,7 @@ input, textarea {
 
 
 .r6 {
-    bottom: 19.35cm;
+    bottom: 19.4cm;
 }
 #i9 {
     left: 133px;
@@ -175,7 +182,7 @@ input, textarea {
 
 
 .r7 {
-    bottom: 18.8cm;
+    bottom: 18.9cm;
 }
 #i11 {
     left: 139px;
@@ -239,7 +246,7 @@ input, textarea {
 }
 
 #i19 {
-    left: 13.5cm;
+    left: 13.3cm;
     width: 2.9cm;
 }
 
@@ -257,11 +264,11 @@ input, textarea {
     width: 2.5cm;
 }
 #i22 {
-    left: 11.9cm;
+    left: 11.7cm;
     width: 0.5cm;
 }
 #i23 {
-    left: 17.2cm;
+    left: 17cm;
     width: 2cm;
 }
 
