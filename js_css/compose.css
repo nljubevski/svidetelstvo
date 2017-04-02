@@ -62,7 +62,6 @@ input, textarea {
 #page1 {
     background-image: url('../images/page1.png');
     background-size : 19.5cm 28.2cm;
-    padding-top: 1mm;
     background-position-y: 8mm;
 
 }
@@ -264,7 +263,7 @@ input, textarea {
     width: 2.5cm;
 }
 #i22 {
-    left: 11.7cm;
+    left: 11.9cm;
     width: 0.5cm;
 }
 #i23 {
