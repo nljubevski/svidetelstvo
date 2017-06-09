@@ -2,7 +2,7 @@
 
 $(function() {
 
- 
+
  $('#i17').click(function(){
       $('#ta_1').focus();
  })
@@ -14,7 +14,7 @@ $(function() {
                                          },
                                         stop: function (){
                                             $('#ta_1').focus();
-                                         } 
+                                         }
                                      })
                                     .resizable()
 
